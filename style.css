@@ -1,6 +1,20 @@
 
    /*idea mean only outline* "."
    class means more "#"/*/
-  div {
-    border: 1px solid #000000;
+
+   body {
+     font-family: 'Indie Flower', sans-serif;;
+   }
+
+.myMedia {
+  background-color: hotpink;
+  height: 100px
+}
+
+@ menu only screen and and{max-width:400px) {
+  .myDiv {
+    background-color: hotpink;
+    height: 200px
   }
+
+}
